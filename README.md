@@ -5,8 +5,8 @@ In a way, AI is the simuation of human intelligence. How humans think and take d
 ![AI](AI.png)
 
 Here is a list of projects that are planned as part of this initiaive:
-- Project 1
-- Project 2
-
+- Create an application with all the types of data structures used (1st Jan to 15th Jan) 
+- Start with simple frontend and backend implementation(20th Jan- 20th Feb)
+- Create two branches
 >Check out
 
